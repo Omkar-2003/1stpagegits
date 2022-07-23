@@ -1,0 +1,120 @@
+body{
+  background-image: url("Images/bg-3.jpg");
+  /* background-image: url("Images/Bg.jpeg");
+  background-image: url("Images/Bg.jpeg");
+  background-image: url("Images/Bg.jpeg"); */
+  background-size: cover;
+
+}
+/* navbar */
+/* .navbar{
+  display: inline-block;
+  transform: rotate(90deg);
+  padding-top: 500px;
+
+} */
+/* .firstline{
+  border-left: 3px solid #00ffff;
+  height: 100px;
+
+  display: inline-block;
+  margin-left: -8px;
+  margin-bottom: 74px;
+  margin-right: 2px;
+
+}
+.secondline{
+  border-left: 3px solid #00ffff;
+    height: 100px;
+    display: inline-block;
+    margin-top: 45px;
+    margin-left: -6px;
+    margin-bottom: 2px;
+
+} */
+/* .Social-tag{
+  display: inline;
+
+  /* margin-left: 30px;
+  margin-top: -43px; */
+/* } */
+/* Mid Content */
+
+.Mid-content{
+  margin-top: 0;
+  padding-top: 0;
+  margin-bottom: 20px;
+}
+.Title{
+  text-align: center;
+  font-family: "Abel";
+  font-size: 7rem;
+  color: #00FFFF;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom:1px;
+  padding-top: 7.5%;
+  filter: brightness(100%);
+  opacity: 0.9;
+  padding-top: 70px;
+}
+
+.firstPara{
+  text-align: center;
+  color: white;
+  font-family: "Montserrat";
+  line-height: 1.5;
+  font-size: 1.5rem;
+  display: inline-block;
+  margin-left: 15rem;
+  margin-right: 15rem;
+  margin-top: 0.1rem;
+}
+.btn{
+  text-align: center;
+  height:40px;
+  width:200px;
+  margin-top: 40px;
+  /* background-color:inherit; */
+}
+
+/* DESCP Para */
+
+#Decp{
+  text-align: center;
+  color: white;
+  font-family: "Montserrat";
+  line-height: 1.5;
+  font-size: 1.5rem;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  margin-left: 30rem;
+  margin-right: 30rem;
+  margin-bottom: 30px;
+  font-size: 1.3rem;
+}
+.descpPara3{
+  padding-top: 35px;
+  padding-bottom: 35px;
+  margin-left: 22px;
+  margin-right: 1px;
+  margin-bottom: 30px;
+  font-size: 1.3rem;
+
+}
+.descpPara2{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 22px;
+  margin-right: 1px;
+  font-size: 1.3rem;
+
+}
+.descpPara1{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 22px;
+  margin-right: 1px;
+  font-size: 1.3rem;
+
+}
